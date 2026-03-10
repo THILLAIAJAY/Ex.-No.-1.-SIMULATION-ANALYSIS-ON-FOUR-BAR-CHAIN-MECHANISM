@@ -53,10 +53,20 @@
 
 
 ## Output:
+<img width="1017" height="789" alt="image" src="https://github.com/user-attachments/assets/611d97ca-eecf-4bd4-acf1-a2756036bad1" />
+<img width="997" height="786" alt="image" src="https://github.com/user-attachments/assets/ea107597-75ff-46ee-b48b-9ab011182bc4" />
+<img width="982" height="763" alt="image" src="https://github.com/user-attachments/assets/99b203d3-9cf6-4cf8-92a8-6f1d449b69e9" />
+<img width="1006" height="773" alt="image" src="https://github.com/user-attachments/assets/718da3ce-850c-444a-b66c-7f1eb1221348" />
+
+<img width="974" height="747" alt="image" src="https://github.com/user-attachments/assets/b88ae4cb-0aa8-433b-a442-b380bac24931" />
+
+<img width="972" height="723" alt="image" src="https://github.com/user-attachments/assets/82c4b96b-cebf-40f8-9ac9-1756fb704583" />
+
+<img width="974" height="720" alt="image" src="https://github.com/user-attachments/assets/9d5dd163-4ca0-40e9-a0b7-4ba8614d09e7" />
 
 
-### Name:
-### Register Number: 
+### Name:THILLAI AJAY.L
+### Register Number: 212224040354
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
